@@ -1,2 +1,2 @@
-# python_programs
+# Python programs for ...
 python universal programs for regular and future purpose.
