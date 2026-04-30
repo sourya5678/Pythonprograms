@@ -1,2 +1,2 @@
 # Python programs for ...
-python universal programs for regular and future purpose.
+Python universal programs for regular and future purpose.
